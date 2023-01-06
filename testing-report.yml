@@ -37,7 +37,6 @@
   
   - summary: |
 	Проверка открытия карточки товара
-	requirement: |
 	status: pass
   
   - summary: |
