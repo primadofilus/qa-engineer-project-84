@@ -35,7 +35,7 @@
     Фото остается прежним
 
 - summary: |
-    Поле "в наличии" не показывает товары не в наличии
+    Поле "в наличии" в выключенном состоянии не показывает товары не в наличии
   environment: |
     Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0
   steps-to-reproduce: |
