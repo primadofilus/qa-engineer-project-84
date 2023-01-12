@@ -22,7 +22,7 @@
     Фильтр не предусмотрен
     
 - summary: |
-    Не меняются фото на страничке товара при тапе на фото под основным фото товара
+    Не меняются фото в карточке товара
   environment: |
     Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0
   steps-to-reproduce: |
@@ -35,7 +35,7 @@
     Фото остается прежним
 
 - summary: |
-    Поле "в наличии" на главной странице слева внизу не показывает товары не в наличии
+    Поле "в наличии" не показывает товары не в наличии
   environment: |
     Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0
   steps-to-reproduce: |
@@ -48,7 +48,7 @@
     Из каталога исчезают все товары 
 
 - summary: |
-    Не выровнено друг под другом количество товара в корзине
+    Не выровнено количество товара
   environment: |
     Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0
   steps-to-reproduce: |
